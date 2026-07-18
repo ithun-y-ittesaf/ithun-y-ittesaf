@@ -44,27 +44,13 @@
 
 ### GitHub Stats
 
-name: GitHub-Profile-Summary-Cards
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ithun-y-ittesaf
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ithun-y-ittesaf/ithun-y-ittesaf/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ithun-y-ittesaf/ithun-y-ittesaf/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/ithun-y-ittesaf/ithun-y-ittesaf/master/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+</p>
 ---
 
 ### Connect
