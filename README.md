@@ -1,11 +1,11 @@
-<div align="center">
+<p align="center">
 
 <!-- Animated typing intro -->
 <a href="https://github.com/ithun-y-ittesaf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ittesaf;Software+Engineering+Student;Working+at+Pathao" alt="Typing SVG" />
 </a>
 
-</div>
+</p>
 
 <br/>
 
