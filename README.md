@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ittesaf</h1>
 
 <p align="center">
-  Software Engineering student building Qreate, tinkering with robots, and figuring out how VC works from the outside in.
+  Software Engineering Sophomore. Working at Pathao (Product Intern at Parcels).
 </p>
 
 ---
@@ -9,8 +9,7 @@
 ### About Me
 
 - **Background:** Undergraduate Software Engineering student at Islamic University of Technology (IUT), Bangladesh
-- **Building:** Qreate — a design studio for early-stage funded startups
-- **Experience:** Product Intern @ Pathao, working on Parcel-related products
+- **Experience:** Product Intern @ Pathao, working on Parcel and Parcel for Business products
 - **Interest:** Venture Capital, long-term
 
 ---
@@ -18,11 +17,11 @@
 ### Featured Projects
 
 <p align="center">
-  <a href="https://github.com/ithun-y-ittesaf/matrixcanvas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=matrixcanvas&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
+  <a href="https://github.com/ithun-y-ittesaf/MatrixCanvas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=MatrixCanvas&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
   </a>
-  <a href="https://github.com/ithun-y-ittesaf/shiplog">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=shiplog&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
+  <a href="https://github.com/ithun-y-ittesaf/findyourpath">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=findyourpath&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
   </a>
 </p>
 
