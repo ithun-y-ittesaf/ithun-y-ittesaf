@@ -1,29 +1,29 @@
 <h1 align="center">Hi there, I'm Ittesaf</h1>
 
 <p align="center">
-  Software Engineering Sophomore. Working at Pathao (Product Intern at Parcels).
+  I like to build, optimize, and automate solutions.  
 </p>
 
 ---
 
 ### About Me
 
-- **Background:** Undergraduate Software Engineering student at Islamic University of Technology (IUT), Bangladesh
-- **Experience:** Product Intern @ Pathao, working on Parcel and Parcel for Business products
+- **Background:** Software Engineering Sophomore at Islamic University of Technology (IUT), Bangladesh
+- **Experience:** Product Intern @ Pathao, working on Parcel-related products
 - **Interest:** Venture Capital, long-term
+- **Building:** Shiplog, an open-source helper for Product Managers to perform post-prod push tasks easily.
 
 ---
 
 ### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ithun-y-ittesaf/MatrixCanvas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=MatrixCanvas&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
-  </a>
-  <a href="https://github.com/ithun-y-ittesaf/findyourpath">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ithun-y-ittesaf&repo=findyourpath&theme=tokyonight&hide_border=true&title_color=6C5CE7&icon_color=6C5CE7" />
-  </a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| [MatrixCanvas](https://github.com/ithun-y-ittesaf/MatrixCanvas) | Interactive, Desmos-like tool for learning linear algebra — built as a university project | TypeScript, Three.js |
+| [findyourpath](https://github.com/ithun-y-ittesaf/findyourpath) | A Q-learning agent that finds the shortest path between two nodes, benchmarked against BFS and Dijkstra | Python |
+| [practicepsql](https://github.com/ithun-y-ittesaf/practicepsql) | A learning platform for practicing PostgreSQL queries from basics to advanced | TypeScript |
+| [Shiplog](https://github.com/ithun-y-ittesaf/shiplog)           | An opensource helper for Product Managers to perform post-prod push tasks easily | A bit of everything | 
+} 
 
 ---
 
