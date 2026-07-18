@@ -2,14 +2,13 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/ithun-y-ittesaf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ittesaf;Software+Engineering+Student;Building+Qreate+%40+qreatestories.com;Tinkering+with+Robots+%26+SaaS+Ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ittesaf;Software+Engineering+Student;Working+at+Pathao" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/gist/vn7n24fzkq1o335615312/raw/dependency.svg" alt="coding gif" />
 
 ## About Me
 
