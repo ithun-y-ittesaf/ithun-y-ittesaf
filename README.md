@@ -23,7 +23,7 @@
 | [findyourpath](https://github.com/ithun-y-ittesaf/findyourpath) | A Q-learning agent that finds the shortest path between two nodes, benchmarked against BFS and Dijkstra | Python |
 | [practicepsql](https://github.com/ithun-y-ittesaf/practicepsql) | A learning platform for practicing PostgreSQL queries from basics to advanced | TypeScript |
 | [Shiplog](https://github.com/ithun-y-ittesaf/shiplog)           | An opensource helper for Product Managers to perform post-prod push tasks easily | A bit of everything | 
-} 
+
 
 ---
 
