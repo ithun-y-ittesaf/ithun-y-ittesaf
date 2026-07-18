@@ -7,8 +7,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ithun-y-ittesaf&color=6C5CE7&style=flat-square&label=Profile+Views)
-
 </div>
 
 <br/>
@@ -18,7 +16,6 @@
 ## 🧭 About Me
 
 - 🎓 Undergraduate Software Engineering student at **Islamic University of Technology (IUT)**, Bangladesh
-- 🎨 Building **[Qreate](https://qreatestories.com)** — a design studio for early-stage funded startups
 - 🛠️ Product Intern @ **Pathao**, working on Parcel-related Products
 - 💼 Long-term interest in **Venture Capital**
 
