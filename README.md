@@ -88,7 +88,6 @@
 
 <div align="center">
 
-<a href="https://qreatestories.com"><img src="https://img.shields.io/badge/Qreate-6C5CE7?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ittesafithun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
