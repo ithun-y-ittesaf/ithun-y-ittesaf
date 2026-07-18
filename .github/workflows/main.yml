@@ -1,8 +1,8 @@
-name: generate profile summary
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -11,10 +11,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
-      - uses: vn7n24fzkq1o335615312/github-profile-summary-cards@release
+      - uses: actions/checkout@v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ithun-y-ittesaf
-          THEME: tokyonight
