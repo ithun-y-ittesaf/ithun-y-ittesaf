@@ -2,7 +2,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/ithun-y-ittesaf">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Faiyazzz+%F0%9F%91%8B;Software+Engineering+Student;Building+Qreate+%40+qreatestories.com;Tinkering+with+Robots+%26+SaaS+Ideas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ittesaf+%F0%9F%91%8B;Software+Engineering+Student;Building+Qreate+%40+qreatestories.com;Tinkering+with+Robots+%26+SaaS+Ideas" alt="Typing SVG" />
 </a>
 
 <br/>
